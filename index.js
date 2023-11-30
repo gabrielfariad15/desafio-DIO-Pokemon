@@ -1,0 +1,1 @@
+let nomesPokemon = ["Pikachu","Chamander", "Bulbasaur"]
